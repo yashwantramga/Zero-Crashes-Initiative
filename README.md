@@ -9,6 +9,13 @@ occurrence of accidents so that this can be further used to help us in coming up
 
 The main objective of our process is,To achieve the Zero crashes, To reduce the number of road crash fatalities on the road sides, It is useful for every people who are using road vehicles to travel,It also helps the people to take safer routes.
 
+#Output
+![photo_2023-11-15_18-15-26](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/a5738251-60dd-46da-bcb1-b7896c1710c3)
+![photo_2023-11-15_18-15-30](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/5a0d5a71-b405-4fbe-9040-cc9010d312ac)
+![photo_2023-11-15_18-15-35](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/f1f7a075-0504-48b2-b8a3-c93fdd83bf8a)
+![photo_2023-11-15_18-15-39](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/660d8b4a-a48d-4162-989e-996d0f730cd3)
+
+
 # Conclusion
 In conclusion, the successful deployment and rigorous testing of the application in real locations within the Virudhunagar hotspot areas mark a significant milestone in our project. The "Zero Crashes" initiative has demonstrated its potential to substantially reduce the number of
 accidents and, most importantly, fatalities. Through the systematic integration of advanced technologies, including IoT, machine
