@@ -9,13 +9,13 @@ occurrence of accidents so that this can be further used to help us in coming up
 
 The main objective of our process is,To achieve the Zero crashes, To reduce the number of road crash fatalities on the road sides, It is useful for every people who are using road vehicles to travel,It also helps the people to take safer routes.
 
-#Data Visualization using Power Bi (Accidents and Fatal count based on Years)
+# Data Visualization using Power Bi (Accidents and Fatal count based on Years)
 ![image](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/ddb982dc-7c1c-4eb6-a250-4a73aad9347c)
 
-#Data Visualization using Power Bi (Accidents and Fatal count based on Locations)
+# Data Visualization using Power Bi (Accidents and Fatal count based on Locations)
 ![image](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/48576d2d-79cd-4c9b-8b44-5ae8e2e4d48f)
 
-#Output
+# Output
 ![photo_2023-11-15_18-15-39](https://github.com/yashwantramga/Zero-Crashes-Initiative/assets/144485643/660d8b4a-a48d-4162-989e-996d0f730cd3)
 
 
